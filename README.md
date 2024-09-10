@@ -7,3 +7,13 @@
 faezegholami/faezegholami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+----------------------------------------------
+
+### 🏆 Github Profile Trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faezegholami&column=7"/>
+</div>
+</br>
+
+----------------------------------------------
