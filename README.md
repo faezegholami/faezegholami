@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your changes.
 My language state
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/faezegholami/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faezegholami&layout=compact)](https://github.com/faezegholami/github-readme-stats)
 ----------------------------------------------
